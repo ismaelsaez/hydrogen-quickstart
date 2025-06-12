@@ -1,7 +1,7 @@
 /// <reference types="vite/client" />
 /// <reference types="react-router" />
 /// <reference types="@shopify/oxygen-workers-types" />
-
+ 
 // Enhance TypeScript's built-in typings.
 import '@total-typescript/ts-reset';
 
